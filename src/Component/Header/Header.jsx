@@ -8,7 +8,7 @@ function Header() {
   return (
     <header className="header">
       <nav className="nav container">
-        <a href="index.html" className="nav__logo">
+        <a href="#home" className="nav__logo">
           Kaustubh
         </a>
         <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
@@ -31,8 +31,8 @@ function Header() {
               </a>
             </li>
             <li className="nav__item">
-              <a href="#service" className="nav__link">
-                <i className="uil uil-briefcase nav__icon"></i>Services
+              <a href="#Qualification" className="nav__link">
+                <i className="uil uil-briefcase nav__icon"></i>Qualification
               </a>
             </li>
             <li className="nav__item">
