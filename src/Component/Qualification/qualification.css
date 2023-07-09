@@ -88,10 +88,7 @@
     max-width: 350px;
   }
 
-  .qualification__container{
-    margin-left: var(--mb-1-5);
-    margin-right: var(--mb-1-5);
-  }
+
 }
 
 @media screen and (max-width: 576px) {
