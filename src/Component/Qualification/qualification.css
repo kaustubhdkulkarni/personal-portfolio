@@ -24,6 +24,10 @@
 
 .qualification__active {
   color: var(--title-color-dark);
+  text-decoration:underline;
+  font-size: 20px;
+  transition: 1s;
+  
 }
 .qualification__sections {
   display: grid;
@@ -35,6 +39,7 @@
 }
 
 .qualification__content-active {
+ 
   display: block;
 }
 .qualification__data {
