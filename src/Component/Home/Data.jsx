@@ -7,8 +7,7 @@ function Data() {
 
       <h3 className="home__subtitle">Web developer</h3>
       <p className="home__description">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam,
-        dolorem.lorem5 L dolor.
+      I am a passionate and dedicated web developer with a strong desire to create beautiful and functional websites
       </p>
 
       <a href="#contact" className="button button--flex">
