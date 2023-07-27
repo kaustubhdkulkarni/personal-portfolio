@@ -7,7 +7,7 @@ function Data() {
 
       <h3 className="home__subtitle">Web developer</h3>
       <p className="home__description">
-      I am a passionate and dedicated web developer with a strong desire to create beautiful and functional websites
+        I am a passionate and dedicated web developer with a strong desire to create beautiful and functional websites
       </p>
 
       <a href="#contact" className="button button--flex">
