@@ -12,8 +12,7 @@ import Skills from "./Component/Skills/Skills";
 function App() {
   return (
     <div className="App">
-      <>
-        <Header />
+      <Header />
         <main className="main">
           <Home/>
           <About/>
@@ -22,9 +21,8 @@ function App() {
           <Project/>
           <Contact/>
         </main>
-        <Footer/>
-        {/* <ScrollUp/> */}
-      </>
+      <Footer/>
+      {/* <ScrollUp/> */}
     </div>
   );
 }
